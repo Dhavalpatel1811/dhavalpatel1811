@@ -16,18 +16,32 @@ Always eager to learn, innovate, and contribute to solving real-world business p
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
-- **Data Analysis & Visualization:** Matplotlib, Seaborn, Plotly
-- **Machine Learning:** Logistic Regression, SVM, XGBoost
-- **Natural Language Processing (NLP):** NLTK, SpaCy
-- **Tools:** Jupyter Notebook, Git/GitHub, Excel
-- **Soft Skills:** Problem-solving, Analytical Thinking, Communication
+- **Programming Languages:**  
+  Python, SQL, C++, HTML, CSS
+
+- **Data Analysis:**  
+  Data Wrangling, Data Cleaning, Feature Engineering, Data Visualization (Power BI, Excel)
+
+- **Libraries & Frameworks:**  
+  Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, OpenCV, Transformers
+
+- **Machine Learning:**  
+  ML Models (Linear and Logistic Regression, KNN, Decision Trees, SVM, Random Forest, K-Means, Transformers like BERT)  
+  Evaluation Metrics –  
+  - **Classification:** Accuracy, Precision, Recall, F1-Score, ROC-AUC  
+  - **Regression:** MAE, MSE, RMSE, R² Score
+
+- **Big Data & Cloud:**  
+  Apache Spark (Basics), Google Colab
+
+- **Languages:**  
+  English (C1), French (A1), Hindi (Native)
 
 ---
 
 ## 📚 Career Goals
 
-- 📊 Master advanced analytics and dashboarding tools (Power BI, Tableau)
+- 📊 Master advanced analytics and dashboarding tools (Power BI)
 - 🤖 Gain expertise in AI/ML for business forecasting
 - 💼 Work as a Data Analyst or Business Intelligence Analyst in a tech-driven organization
 - 🏆 Continuously improve technical and storytelling skills to make data-driven decisions easier
