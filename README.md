@@ -56,7 +56,7 @@ Always eager to learn, innovate, and contribute to solving real-world business p
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/)
 - **GitHub:** [Dhavalpatel1811](https://github.com/Dhavalpatel1811)
-- **Email:** dhavalpatel@example.com (replace with your real email)
+- **Email:** dhavalmpatel18112001@gmail.com
 
 ---
 
