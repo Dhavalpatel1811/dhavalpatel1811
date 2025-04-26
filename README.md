@@ -55,15 +55,12 @@ Currently preparing for **AWS Certified Machine Learning – Specialty (MLA-C01)
 | **Lab 5 – Data Analysis**        | Statistical exploration and visual insights            | Python, Pandas, Seaborn                                  | Course Dataset          | ✅ Descriptive stats summaries<br>✅ Insightful charts        | [Repo 🔗](https://github.com/Dhavalpatel1811/lab_5)                                   | Solo               |
 | **Power BI Dashboard**           | Interactive business performance dashboard             | Power BI, DAX                                           | Placeholder             | ✅ KPIs & trend analysis<br>✅ Real-time data visualizations  | *Coming Soon in Repo*                                                               | Team Project       |
 
-*(Feel free to update details or add new projects!)*
 
 ---
 
 ## 📈 GitHub Stats
 
-![Dhaval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavalpatel1811&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavalpatel1811&layout=compact&theme=default)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dhavalpatel1811)
+![Dhaval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavalpatel1811&show_icons=true&theme=default)
 
 ---
 
